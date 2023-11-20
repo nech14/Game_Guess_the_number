@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game_Guess_the_number</string>
+    <string name="is_your_hidden_number_greater_than_or_equal_to"><![CDATA[Is your hidden number greater than or equal to (>)%d?]]></string>
+    <string name="you_guessed_the_number_restart">You guessed the number %d! \nrestart?</string>
+    <string name="did_you_wish_for_the_number">Did you wish for the number (==)%d?</string>
+    <string name="why">Why????</string>
+</resources>
